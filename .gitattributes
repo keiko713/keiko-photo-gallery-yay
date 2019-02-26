@@ -1,0 +1,12 @@
+static/images/apple.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/apple6.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/bagels.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/carrots.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/latte-art.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/noodles.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/apple2.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/apple3.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/apple4.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/apple5.jpg filter=lfs diff=lfs merge=lfs -text
+static/images/branches.png filter=lfs diff=lfs merge=lfs -text
+static/images/single-bagel.jpg filter=lfs diff=lfs merge=lfs -text
